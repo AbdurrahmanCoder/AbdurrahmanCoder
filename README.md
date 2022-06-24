@@ -1,7 +1,7 @@
   Hi there 👋
   
-- 🔭 I’m currently working on a projerct marvel 
-- 🌱 I’m currently learning react js 
+- 🔭 Je travaille actuellement sur un projet marvel 
+- 🌱 Je suis actuellement en train d'apprendre react js 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -9,3 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-+  
+ 
