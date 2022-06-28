@@ -1,6 +1,6 @@
-    Bonjour 👋
+    Bonjour👋
     
-   <h3 align="center">Un développeur front-end passionné de France</h3>
+   <h3 align="center">Je suis développeur front-end passionné de France</h3>
 
 - 🔭 Je travaille actuellement sur un projet marvel 
 - 🌱 Je suis actuellement en train d'apprendre react js 
