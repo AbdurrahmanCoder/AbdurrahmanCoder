@@ -10,7 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 
--+  
+-+      <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+
  
 <h3 align="center">A passionate frontend developer from france</h3>
 
