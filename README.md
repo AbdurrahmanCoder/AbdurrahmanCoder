@@ -1,9 +1,11 @@
-  Hi there 👋
-  
+    Bonjour 👋
+    
+   <h3 align="center">Un développeur front-end passionné de France</h3>
+
 - 🔭 Je travaille actuellement sur un projet marvel 
 - 🌱 Je suis actuellement en train d'apprendre react js 
  
-<h3 align="center">Un développeur front-end passionné de France</h3>
+
 
  
 <p align="left">
