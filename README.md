@@ -27,7 +27,7 @@
 <h3 align="center">Où me trouver :</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/votreprofil" target="_blank">
+  <a href="https://www.linkedin.com/in/abdurrahmanCoder" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/votreprofil" target="_blank">
@@ -35,26 +35,4 @@
   </a>
 </p>
 
-<style>
-  .icon {
-    animation: float 3s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  h1, h3, p {
-    color: #f0f0f0;
-  }
-
-  body {
-    background-color: #2c3e50;
-    font-family: Arial, sans-serif;
-  }
-</style>
+ 
